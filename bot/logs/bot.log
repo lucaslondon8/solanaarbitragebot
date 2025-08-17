@@ -61,3 +61,79 @@
 [2025-08-17T22:34:10.215Z] INFO: Enhanced market data connections cleaned up
 [2025-08-17T22:34:10.215Z] INFO: 📊 Final Enhanced Statistics: | {"runtime":0.08908333333333333,"totalTrades":0,"successfulTrades":0,"successRate":0,"totalProfit":0}
 [2025-08-17T22:34:10.216Z] INFO: ✅ Enhanced bot stopped successfully
+[2025-08-17T22:53:43.477Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-17T22:53:43.480Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-17T22:53:44.114Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-17T22:53:44.115Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-17T22:53:44.115Z] INFO: Initializing Orca integration...
+[2025-08-17T22:53:44.115Z] INFO: Initializing Raydium integration...
+[2025-08-17T22:53:44.115Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:53:44.418Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:53:44.419Z] INFO: ✅ Enhanced market data connections established
+[2025-08-17T22:53:44.419Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-17T22:53:48.421Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:53:48.648Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:53:52.421Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:53:52.650Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:53:56.422Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:53:56.653Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:54:00.424Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:54:00.655Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:54:04.425Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:54:04.768Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:54:06.448Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-17T22:54:06.449Z] INFO: Enhanced market data connections cleaned up
+[2025-08-17T22:54:06.450Z] INFO: Enhanced bot stopped
+[2025-08-17T22:55:57.133Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-17T22:55:57.136Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-17T22:55:57.962Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-17T22:55:57.962Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-17T22:55:57.962Z] INFO: Initializing Orca integration...
+[2025-08-17T22:55:57.962Z] INFO: Initializing Raydium integration...
+[2025-08-17T22:55:57.963Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:55:58.239Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:55:58.240Z] INFO: ✅ Enhanced market data connections established
+[2025-08-17T22:55:58.240Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-17T22:55:58.241Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-17T22:56:02.242Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:56:02.474Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:56:06.242Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:56:06.521Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:56:10.244Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:56:10.481Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:56:14.245Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T22:56:14.468Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T22:56:15.467Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-17T22:56:15.468Z] INFO: Enhanced market data connections cleaned up
+[2025-08-17T22:56:15.469Z] INFO: Enhanced bot stopped
+[2025-08-17T23:27:24.723Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-17T23:27:24.726Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-17T23:27:25.118Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-17T23:27:25.118Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-17T23:27:25.118Z] INFO: Initializing Orca integration...
+[2025-08-17T23:27:25.119Z] INFO: Initializing Raydium integration...
+[2025-08-17T23:27:25.119Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T23:27:25.417Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T23:27:25.417Z] INFO: ✅ Enhanced market data connections established
+[2025-08-17T23:27:25.418Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-17T23:27:27.419Z] INFO: 📊 Initial price check:
+[2025-08-17T23:27:27.421Z] INFO: Found price data for 2 tokens
+[2025-08-17T23:27:27.421Z] INFO:   SOL: 3 sources
+[2025-08-17T23:27:27.421Z] INFO:   USDC: 3 sources
+[2025-08-17T23:27:27.422Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-17T23:27:29.418Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T23:27:29.648Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T23:27:33.419Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T23:27:33.750Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T23:27:37.419Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T23:27:37.666Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T23:27:41.421Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T23:27:41.648Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T23:27:45.422Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T23:27:45.643Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T23:27:49.423Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T23:27:49.734Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-17T23:27:53.425Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-17T23:27:53.639Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-17T23:27:53.640Z] INFO: Enhanced market data connections cleaned up
+[2025-08-17T23:27:53.640Z] INFO: Enhanced bot stopped
