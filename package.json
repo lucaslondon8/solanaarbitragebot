@@ -1,0 +1,8 @@
+{
+  "name": "solana-arbitrage-bot",
+  "private": true,
+  "workspaces": [
+    "bot",
+    "sdk"
+  ]
+}

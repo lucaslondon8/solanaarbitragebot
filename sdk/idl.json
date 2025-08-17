@@ -1,0 +1,99 @@
+{
+  "address": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS",
+  "metadata": {
+    "name": "arbitrage_bot",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Created with Anchor"
+  },
+  "instructions": [
+    {
+      "name": "execute_arbitrage",
+      "discriminator": [
+        63,
+        57,
+        76,
+        143,
+        41,
+        52,
+        112,
+        208
+      ],
+      "accounts": [
+        {
+          "name": "authority",
+          "signer": true
+        },
+        {
+          "name": "trade_wallet",
+          "docs": [
+            "The off-chain client is responsible for ensuring it is a valid token account."
+          ],
+          "writable": true
+        }
+      ],
+      "args": [
+        {
+          "name": "_route",
+          "type": {
+            "vec": {
+              "defined": {
+                "name": "SwapHop"
+              }
+            }
+          }
+        },
+        {
+          "name": "in_amount",
+          "type": "u64"
+        },
+        {
+          "name": "_min_out_amount",
+          "type": "u64"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "code": 6000,
+      "name": "InsufficientProfit",
+      "msg": "The final profit was less than the minimum required."
+    }
+  ],
+  "types": [
+    {
+      "name": "SwapHop",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "venue",
+            "type": {
+              "defined": {
+                "name": "SwapVenue"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "SwapVenue",
+      "type": {
+        "kind": "enum",
+        "variants": [
+          {
+            "name": "Orca"
+          },
+          {
+            "name": "Raydium"
+          },
+          {
+            "name": "Phoenix"
+          }
+        ]
+      }
+    }
+  ]
+}

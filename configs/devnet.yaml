@@ -1,0 +1,23 @@
+# Solana Devnet bot config example
+
+solana:
+  rpc_url: "https://api.devnet.solana.com"
+  wallet_path: "../my-bot-wallet.json"  # path to your test wallet keypair
+  commitment: "confirmed"
+
+bot:
+  log_level: "debug"
+  pools:
+    - "SOL-USDC"
+    - "RAY-SOL"
+
+arbitrage:
+  min_profit_threshold: 0.01
+  max_slippage: 0.005
+  simulate_only: true    # ensures bot doesn't make live trades
+
+tokens:
+  - "SOL"
+  - "USDC"
+  - "RAY"
+

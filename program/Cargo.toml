@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2" # Add this line
+members = [
+    "programs/program"
+]
+
+[profile.release]
+overflow-checks = true

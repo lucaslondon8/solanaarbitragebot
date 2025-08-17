@@ -1,0 +1,33 @@
+# The version of the Anchor CLI used to build this program.
+[toolchain]
+anchor_version = "0.31.1"
+
+[features]
+seeds = false
+skip-lint = false
+
+# On-chain program details for the localnet cluster.
+# The address 'Fg6Pa...' is a placeholder that Anchor manages.
+[programs.localnet]
+program = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+
+[programs.devnet]
+program = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+
+[registry]
+url = "https://api.apr.dev"
+
+# Configuration for connecting to a Solana cluster.
+[provider]
+cluster = "Localnet"
+# This will default to your Solana CLI's default wallet.
+# You usually do not need to change this path.
+wallet = "~/.config/solana/id.json"
+
+# Configuration for running tests.
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+
+# This section tells Anchor which Solana version to download and use for 'anchor test'.
+[test]
+solana_version = "1.18.17"
