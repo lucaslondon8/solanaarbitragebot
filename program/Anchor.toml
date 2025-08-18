@@ -12,14 +12,14 @@ skip-lint = false
 program = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 
 [programs.devnet]
-program = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+program = "98sqBn3ThFx8GLofFhnikdQcKxskr86vEbtRTLcw1fPZ"
 
 [registry]
 url = "https://api.apr.dev"
 
 # Configuration for connecting to a Solana cluster.
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 # This will default to your Solana CLI's default wallet.
 # You usually do not need to change this path.
 wallet = "~/.config/solana/id.json"
