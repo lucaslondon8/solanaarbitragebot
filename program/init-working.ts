@@ -4,7 +4,7 @@ import { AnchorProvider, BN, Wallet } from '@coral-xyz/anchor';
 import * as fs from 'fs';
 
 // Your program ID
-const PROGRAM_ID = new PublicKey("98sqBn3ThFx8GLofFhnikdQcKxskr86vEbtRTLcw1fPZ");
+const PROGRAM_ID = new PublicKey("3bBfJkCFZ8MpenUAxurbQqbphfxUm8UBokfSRth2c3oF");
 const connection = new Connection("https://api.devnet.solana.com");
 
 async function initializeArbitrageState() {

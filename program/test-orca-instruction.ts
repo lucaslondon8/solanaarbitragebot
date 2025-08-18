@@ -5,7 +5,7 @@ import { TOKEN_PROGRAM_ID } from '@solana/spl-token';
 import * as fs from 'fs';
 
 // Your program ID (should match what was deployed)
-const PROGRAM_ID = new PublicKey("98sqBn3ThFx8GLofFhnikdQcKxskr86vEbtRTLcw1fPZ");
+const PROGRAM_ID = new PublicKey("3bBfJkCFZ8MpenUAxurbQqbphfxUm8UBokfSRth2c3oF");
 const connection = new Connection("https://api.devnet.solana.com");
 
 // Orca addresses
