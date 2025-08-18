@@ -717,7 +717,36 @@ class EnhancedSolanaArbitrageBot {
         logger.info(`  ${token}: ${prices.length} sources`);
       }
       
-      this.startArbitrageLoop();
+      logger.info('🔍 Starting arbitrage scanning loop...');
+      
+      // IMMEDIATE TEST - run one scan right now
+      try {
+        logger.info('🧪 Running immediate test scan...');
+        const testPrices = this.marketData.getAllPrices();
+        logger.info(`Test: ${testPrices.size} tokens available`);
+        
+        // Debug the config
+        logger.info(`Config supported tokens: ${JSON.stringify(config.trading.supportedTokens)}`);
+        logger.info(`Config min profit threshold: ${config.trading.minProfitThreshold}`);
+        
+        logger.info('🔍 About to call detector.findOpportunities()...');
+        const testOpportunities = this.detector.findOpportunities();
+        logger.info(`🔍 detector.findOpportunities() returned: ${testOpportunities.length}`);
+        logger.info(`Test: Found ${testOpportunities.length} opportunities`);
+        
+        if (testOpportunities.length > 0) {
+          logger.info('✅ Test scan found opportunities!');
+        } else {
+          logger.info('ℹ️ Test scan found no opportunities (this might be normal)');
+        }
+      } catch (testError) {
+        logger.error('❌ Test scan failed:', testError);
+      }
+      
+      // Start the loop WITHOUT awaiting it (so it runs in background)
+      this.startArbitrageLoop().catch(error => {
+        logger.error('❌ Arbitrage loop crashed:', error);
+      });
       
     } catch (error) {
       logger.error('❌ Failed to start enhanced bot', error);

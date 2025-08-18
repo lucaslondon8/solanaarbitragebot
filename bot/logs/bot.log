@@ -137,3 +137,154 @@
 [2025-08-17T23:27:53.639Z] INFO: Received SIGINT, shutting down gracefully...
 [2025-08-17T23:27:53.640Z] INFO: Enhanced market data connections cleaned up
 [2025-08-17T23:27:53.640Z] INFO: Enhanced bot stopped
+[2025-08-18T10:24:52.097Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-18T10:24:52.100Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-18T10:24:52.484Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-18T10:24:52.484Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-18T10:24:52.485Z] INFO: Initializing Orca integration...
+[2025-08-18T10:24:52.485Z] INFO: Initializing Raydium integration...
+[2025-08-18T10:24:52.485Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:24:52.816Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:24:52.817Z] INFO: ✅ Enhanced market data connections established
+[2025-08-18T10:24:52.818Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-18T10:24:54.819Z] INFO: 📊 Initial price check:
+[2025-08-18T10:24:54.822Z] INFO: Found price data for 2 tokens
+[2025-08-18T10:24:54.822Z] INFO:   SOL: 3 sources
+[2025-08-18T10:24:54.822Z] INFO:   USDC: 3 sources
+[2025-08-18T10:24:54.823Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:24:56.819Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:24:57.053Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:25:00.820Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:25:01.070Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:25:01.967Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-18T10:25:01.968Z] INFO: Enhanced market data connections cleaned up
+[2025-08-18T10:25:01.969Z] INFO: Enhanced bot stopped
+[2025-08-18T10:26:41.262Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-18T10:26:41.265Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-18T10:26:41.913Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-18T10:26:41.913Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-18T10:26:41.913Z] INFO: Initializing Orca integration...
+[2025-08-18T10:26:41.913Z] INFO: Initializing Raydium integration...
+[2025-08-18T10:26:41.914Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:26:42.312Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:26:42.313Z] INFO: ✅ Enhanced market data connections established
+[2025-08-18T10:26:42.313Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-18T10:26:44.314Z] INFO: 📊 Initial price check:
+[2025-08-18T10:26:44.317Z] INFO: Found price data for 2 tokens
+[2025-08-18T10:26:44.317Z] INFO:   SOL: 3 sources
+[2025-08-18T10:26:44.317Z] INFO:   USDC: 3 sources
+[2025-08-18T10:26:44.318Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:26:46.315Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:26:46.545Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:26:50.315Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:26:50.674Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:26:52.344Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-18T10:26:52.344Z] INFO: Enhanced market data connections cleaned up
+[2025-08-18T10:26:52.345Z] INFO: Enhanced bot stopped
+[2025-08-18T10:28:25.416Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-18T10:28:25.418Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-18T10:28:26.040Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-18T10:28:26.040Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-18T10:28:26.040Z] INFO: Initializing Orca integration...
+[2025-08-18T10:28:26.041Z] INFO: Initializing Raydium integration...
+[2025-08-18T10:28:26.041Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:28:26.426Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:28:26.427Z] INFO: ✅ Enhanced market data connections established
+[2025-08-18T10:28:26.427Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-18T10:28:28.428Z] INFO: 📊 Initial price check:
+[2025-08-18T10:28:28.429Z] INFO: Found price data for 2 tokens
+[2025-08-18T10:28:28.429Z] INFO:   SOL: 3 sources
+[2025-08-18T10:28:28.429Z] INFO:   USDC: 3 sources
+[2025-08-18T10:28:28.430Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:28:30.427Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:28:30.662Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:28:34.428Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:28:34.670Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:28:38.430Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:28:38.707Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:28:40.189Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-18T10:28:40.190Z] INFO: Enhanced market data connections cleaned up
+[2025-08-18T10:28:40.191Z] INFO: Enhanced bot stopped
+[2025-08-18T10:29:49.579Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-18T10:29:49.582Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-18T10:29:50.208Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-18T10:29:50.209Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-18T10:29:50.209Z] INFO: Initializing Orca integration...
+[2025-08-18T10:29:50.209Z] INFO: Initializing Raydium integration...
+[2025-08-18T10:29:50.209Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:29:50.597Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:29:50.598Z] INFO: ✅ Enhanced market data connections established
+[2025-08-18T10:29:50.599Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-18T10:29:52.601Z] INFO: 📊 Initial price check:
+[2025-08-18T10:29:52.603Z] INFO: Found price data for 2 tokens
+[2025-08-18T10:29:52.603Z] INFO:   SOL: 3 sources
+[2025-08-18T10:29:52.603Z] INFO:   USDC: 3 sources
+[2025-08-18T10:29:52.604Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:29:52.604Z] INFO: 🧪 Running immediate test scan...
+[2025-08-18T10:29:52.604Z] INFO: Test: 2 tokens available
+[2025-08-18T10:29:52.605Z] INFO: Test: Found 0 opportunities
+[2025-08-18T10:29:52.605Z] INFO: ℹ️ Test scan found no opportunities (this might be normal)
+[2025-08-18T10:29:52.605Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:29:54.600Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:29:54.838Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:29:58.476Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-18T10:29:58.477Z] INFO: Enhanced market data connections cleaned up
+[2025-08-18T10:29:58.477Z] INFO: Enhanced bot stopped
+[2025-08-18T10:31:03.550Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-18T10:31:03.552Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-18T10:31:04.489Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-18T10:31:04.490Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-18T10:31:04.490Z] INFO: Initializing Orca integration...
+[2025-08-18T10:31:04.490Z] INFO: Initializing Raydium integration...
+[2025-08-18T10:31:04.490Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:31:04.765Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:31:04.766Z] INFO: ✅ Enhanced market data connections established
+[2025-08-18T10:31:04.766Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-18T10:31:06.768Z] INFO: 📊 Initial price check:
+[2025-08-18T10:31:06.771Z] INFO: Found price data for 2 tokens
+[2025-08-18T10:31:06.771Z] INFO:   SOL: 3 sources
+[2025-08-18T10:31:06.772Z] INFO:   USDC: 3 sources
+[2025-08-18T10:31:06.772Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:31:06.772Z] INFO: 🧪 Running immediate test scan...
+[2025-08-18T10:31:06.772Z] INFO: Test: 2 tokens available
+[2025-08-18T10:31:06.773Z] INFO: Config supported tokens: ["SOL","USDC","USDT","RAY","ORCA"]
+[2025-08-18T10:31:06.773Z] INFO: Config min profit threshold: 0.01
+[2025-08-18T10:31:06.774Z] INFO: Test: Found 0 opportunities
+[2025-08-18T10:31:06.774Z] INFO: ℹ️ Test scan found no opportunities (this might be normal)
+[2025-08-18T10:31:06.774Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:31:08.768Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:31:08.996Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:31:12.768Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:31:13.023Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:31:14.005Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-18T10:31:14.006Z] INFO: Enhanced market data connections cleaned up
+[2025-08-18T10:31:14.006Z] INFO: Enhanced bot stopped
+[2025-08-18T10:35:11.883Z] INFO: 🚀 Starting ENHANCED Solana Arbitrage Bot v2.0...
+[2025-08-18T10:35:11.885Z] INFO: 💰 Wallet: 9kjK5yTwWG38B7WcgPW4h68CPGUci3zpWKZF4xJfMm7b
+[2025-08-18T10:35:12.763Z] INFO: 💎 Initial balance: 1.000000 SOL
+[2025-08-18T10:35:12.763Z] INFO: 🔄 Initializing enhanced market data...
+[2025-08-18T10:35:12.763Z] INFO: Initializing Orca integration...
+[2025-08-18T10:35:12.763Z] INFO: Initializing Raydium integration...
+[2025-08-18T10:35:12.764Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:35:13.056Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:35:13.057Z] INFO: ✅ Enhanced market data connections established
+[2025-08-18T10:35:13.058Z] INFO: ✅ Enhanced bot started with integrations!
+[2025-08-18T10:35:15.059Z] INFO: 📊 Initial price check:
+[2025-08-18T10:35:15.061Z] INFO: Found price data for 2 tokens
+[2025-08-18T10:35:15.061Z] INFO:   SOL: 3 sources
+[2025-08-18T10:35:15.062Z] INFO:   USDC: 3 sources
+[2025-08-18T10:35:15.062Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:35:15.063Z] INFO: 🧪 Running immediate test scan...
+[2025-08-18T10:35:15.063Z] INFO: Test: 2 tokens available
+[2025-08-18T10:35:15.063Z] INFO: Config supported tokens: ["SOL","USDC","USDT","RAY","ORCA"]
+[2025-08-18T10:35:15.063Z] INFO: Config min profit threshold: 0.01
+[2025-08-18T10:35:15.064Z] INFO: 🔍 About to call detector.findOpportunities()...
+[2025-08-18T10:35:15.064Z] INFO: 🔍 detector.findOpportunities() returned: 0
+[2025-08-18T10:35:15.064Z] INFO: Test: Found 0 opportunities
+[2025-08-18T10:35:15.064Z] INFO: ℹ️ Test scan found no opportunities (this might be normal)
+[2025-08-18T10:35:15.065Z] INFO: 🔍 Starting arbitrage scanning loop...
+[2025-08-18T10:35:17.058Z] INFO: 🔄 Fetching from Binance-Public - attempt 1
+[2025-08-18T10:35:17.288Z] INFO: ✅ Successfully fetched 2 prices from Binance-Public
+[2025-08-18T10:35:19.830Z] INFO: Received SIGINT, shutting down gracefully...
+[2025-08-18T10:35:19.831Z] INFO: Enhanced market data connections cleaned up
+[2025-08-18T10:35:19.832Z] INFO: Enhanced bot stopped
