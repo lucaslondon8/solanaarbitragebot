@@ -1,5 +1,4 @@
 # The version of the Anchor CLI used to build this program.
-[toolchain]
 anchor_version = "0.31.1"
 
 [features]

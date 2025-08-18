@@ -13,23 +13,9 @@ no-entrypoint = []
 no-idl = []
 no-log-ix-name = []
 cpi = ["no-entrypoint"]
-custom-heap = []
-custom-panic = []
-anchor-debug = []
-idl-build = ["anchor-lang/idl-build", "anchor-spl/idl-build"]
-# DEX integrations (optional for now)
-orca = []
-raydium = []
-jupiter = []
-# Flash loan providers (optional for now)  
-solend = []
-port = []
-# Default features for production
 default = []
+idl-build = ["anchor-lang/idl-build", "anchor-spl/idl-build"]
 
 [dependencies]
 anchor-lang = "0.31.1"
 anchor-spl = "0.31.1"
-
-# SPL Token for all DEX interactions
-spl-token = { version = "4.0.0", features = ["no-entrypoint"] }
